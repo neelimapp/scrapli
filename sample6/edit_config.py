@@ -1,9 +1,9 @@
 from scrapli_netconf import NetconfDriver
 
 IOSXR_DEVICE = {
-    "host": "10.30.111.171",
+    "host": "198.18.134.1",
     "auth_username": "cisco",
-    "auth_password": "cisco123!",
+    "auth_password": "cisco123",
     "auth_strict_key": False,
     "port": 830,
 }
